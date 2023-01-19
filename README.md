@@ -1,1 +1,1 @@
-"# Pig-Dice-GAME-JS" 
+"# Pig-Dice-GAME-JS-DOM manipulation" 
